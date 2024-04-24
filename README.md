@@ -13,4 +13,5 @@ this is a student project
 # Day 1
  we must create a new program that makes 4 separate pdfs 
  for each animal in capitializes the first letter of the title
- 
+- date 04/25 create new program 
+- pandas is installed
