@@ -15,3 +15,9 @@ this is a student project
  for each animal in capitializes the first letter of the title
 - date 04/25 create new program 
 - pandas is installed
+
+# Day 2 
+- installed the modules 
+  - to read files 
+  - create paths to pull data from file
+- set up a for loop to add multiple files 
