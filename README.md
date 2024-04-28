@@ -21,3 +21,10 @@ this is a student project
   - to read files 
   - create paths to pull data from file
 - set up a for loop to add multiple files 
+
+# Day 3 
+- always keep "pdf = FPDF(orientation='p', unit='mm', format='A4')" outside of for loop 
+if not making multiple pdfs
+-     with open(filepath, 'r') as file:
+        content = file.read() 
+- take that to read files 
